@@ -6,8 +6,6 @@ ScriptsOnlyBuild:
     ClusterVR.CreatorKit.Item.Implements.dll:
     - ClusterVR.CreatorKit.Item.Implements.Item
     - ClusterVR.CreatorKit.Item.Implements.RidableItem
-    ClusterVR.CreatorKit.Preview.dll:
-    - ClusterVR.CreatorKit.Preview.Common.TickGenerator
     ClusterVR.CreatorKit.World.Implements.dll:
     - ClusterVR.CreatorKit.World.Implements.DespawnHeights.DespawnHeight
     - ClusterVR.CreatorKit.World.Implements.SpawnPoints.SpawnPoint
@@ -17,13 +15,13 @@ ScriptsOnlyBuild:
     - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
-    Unity.Postprocessing.Runtime.dll:
-    - UnityEngine.Rendering.PostProcessing.PostProcessResources
   sceneClasses:
     Assets/venue_3b300f7ad6fb7351d951f9d92d.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
       Script: {instanceID: 0}
     - Class: 21
       Script: {instanceID: 0}
@@ -87,5 +85,5 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/venue_3b300f7ad6fb7351d951f9d92d.unity
-  playerPath: /var/folders/5g/nx728llj2hv5jh2trv84hr840000gn/T/DefaultCompany/Cluster
-    Creator Kit Sample/StandaloneWindows/venue_3b300f7ad6fb7351d951f9d92d
+  playerPath: C:/Users/novu/AppData/Local/Temp/DefaultCompany/Cluster Creator Kit
+    Sample/StandaloneWindows/venue_3b300f7ad6fb7351d951f9d92d
