@@ -1,5 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
+    Assembly-CSharp.dll:
+    - Readme
     ClusterVR.CreatorKit.Editor.dll:
     - ClusterVR.CreatorKit.Editor.Builder.BuiltAssetBundlePaths
     - ClusterVR.CreatorKit.Editor.Window.View.VenueUploadWindow
