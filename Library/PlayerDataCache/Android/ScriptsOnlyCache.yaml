@@ -6,8 +6,6 @@ ScriptsOnlyBuild:
     ClusterVR.CreatorKit.Item.Implements.dll:
     - ClusterVR.CreatorKit.Item.Implements.Item
     - ClusterVR.CreatorKit.Item.Implements.RidableItem
-    ClusterVR.CreatorKit.Preview.dll:
-    - ClusterVR.CreatorKit.Preview.Common.TickGenerator
     ClusterVR.CreatorKit.World.Implements.dll:
     - ClusterVR.CreatorKit.World.Implements.DespawnHeights.DespawnHeight
     - ClusterVR.CreatorKit.World.Implements.SpawnPoints.SpawnPoint
@@ -17,8 +15,6 @@ ScriptsOnlyBuild:
     - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
-    Unity.Postprocessing.Runtime.dll:
-    - UnityEngine.Rendering.PostProcessing.PostProcessResources
   sceneClasses:
     Assets/venue_3b300f7ad6fb7351d951f9d92d.unity:
     - Class: 1
