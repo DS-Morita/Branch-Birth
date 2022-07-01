@@ -3,42 +3,7 @@ guid: 2985c6b89bc382f40bded2dc539a0bc8
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Wood059_1K_Color
-    second: {fileID: 2800000, guid: 1efa101e29737a4499fa2487f2a252d2, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Wood059_1K_NormalDX
-    second: {fileID: 2800000, guid: 9ed6d64dbfb93ee4083ac39df49a25cb, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Wood059_1K_Roughness
-    second: {fileID: 2800000, guid: 7e85cb43b27f13141ae3c96a2d33cf8b, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: WoodFloor044_1K_Color
-    second: {fileID: 2800000, guid: 81cf12fbc33704b4da3d9a47966ca714, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: WoodFloor044_1K_Metalness
-    second: {fileID: 2800000, guid: 160450adc78477e4fb26fd74783b115d, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: WoodFloor044_1K_NormalGL
-    second: {fileID: 2800000, guid: 7a937e48fbe7bd94b83de0f6b304a4b1, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: WoodFloor044_1K_Roughness
-    second: {fileID: 2800000, guid: 3e727a7a9cc22a345923d8c583ebff26, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
