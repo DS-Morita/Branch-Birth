@@ -3,6 +3,9 @@ ScriptsOnlyBuild:
     ClusterVR.CreatorKit.Editor.dll:
     - ClusterVR.CreatorKit.Editor.Builder.BuiltAssetBundlePaths
     - ClusterVR.CreatorKit.Editor.Window.View.VenueUploadWindow
+    ClusterVR.CreatorKit.Item.Implements.dll:
+    - ClusterVR.CreatorKit.Item.Implements.Item
+    - ClusterVR.CreatorKit.Item.Implements.RidableItem
     ClusterVR.CreatorKit.Preview.dll:
     - ClusterVR.CreatorKit.Preview.Common.TickGenerator
     ClusterVR.CreatorKit.World.Implements.dll:
@@ -41,9 +44,13 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 13412}
+      Script: {instanceID: 12762}
     - Class: 114
-      Script: {instanceID: 13496}
+      Script: {instanceID: 13402}
+    - Class: 114
+      Script: {instanceID: 13486}
+    - Class: 114
+      Script: {instanceID: 13558}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -51,6 +58,12 @@ ScriptsOnlyBuild:
     - Class: 196
       Script: {instanceID: 0}
   scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 65aa9c76ebc90f987df6729d23699aa8
+    assemblyName: ClusterVR.CreatorKit.Item.Implements.dll
+    namespaceName: ClusterVR.CreatorKit.Item.Implements
+    className: Item
   - hash:
       serializedVersion: 2
       Hash: 5a7898259f87aadf406644eb5c3ef9fb
@@ -63,6 +76,12 @@ ScriptsOnlyBuild:
     assemblyName: ClusterVR.CreatorKit.World.Implements.dll
     namespaceName: ClusterVR.CreatorKit.World.Implements.DespawnHeights
     className: DespawnHeight
+  - hash:
+      serializedVersion: 2
+      Hash: 75dd77d3eaf67a85b31ce41fca5ed55a
+    assemblyName: ClusterVR.CreatorKit.Item.Implements.dll
+    namespaceName: ClusterVR.CreatorKit.Item.Implements
+    className: RidableItem
   platform: 2
   scenePathNames:
   - Assets/venue_d4df6b430159871063c14a8f02.unity
