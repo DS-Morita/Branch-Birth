@@ -3,9 +3,6 @@ ScriptsOnlyBuild:
     ClusterVR.CreatorKit.Editor.dll:
     - ClusterVR.CreatorKit.Editor.Builder.BuiltAssetBundlePaths
     - ClusterVR.CreatorKit.Editor.Window.View.VenueUploadWindow
-    ClusterVR.CreatorKit.Item.Implements.dll:
-    - ClusterVR.CreatorKit.Item.Implements.Item
-    - ClusterVR.CreatorKit.Item.Implements.RidableItem
     ClusterVR.CreatorKit.World.Implements.dll:
     - ClusterVR.CreatorKit.World.Implements.DespawnHeights.DespawnHeight
     - ClusterVR.CreatorKit.World.Implements.SpawnPoints.SpawnPoint
@@ -16,7 +13,7 @@ ScriptsOnlyBuild:
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
   sceneClasses:
-    Assets/venue_3b300f7ad6fb7351d951f9d92d.unity:
+    Assets/venue_d4df6b430159871063c14a8f02.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -40,13 +37,9 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 12762}
+      Script: {instanceID: 13412}
     - Class: 114
-      Script: {instanceID: 13402}
-    - Class: 114
-      Script: {instanceID: 13486}
-    - Class: 114
-      Script: {instanceID: 13558}
+      Script: {instanceID: 13496}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -54,12 +47,6 @@ ScriptsOnlyBuild:
     - Class: 196
       Script: {instanceID: 0}
   scriptHashData:
-  - hash:
-      serializedVersion: 2
-      Hash: 65aa9c76ebc90f987df6729d23699aa8
-    assemblyName: ClusterVR.CreatorKit.Item.Implements.dll
-    namespaceName: ClusterVR.CreatorKit.Item.Implements
-    className: Item
   - hash:
       serializedVersion: 2
       Hash: 5a7898259f87aadf406644eb5c3ef9fb
@@ -72,14 +59,8 @@ ScriptsOnlyBuild:
     assemblyName: ClusterVR.CreatorKit.World.Implements.dll
     namespaceName: ClusterVR.CreatorKit.World.Implements.DespawnHeights
     className: DespawnHeight
-  - hash:
-      serializedVersion: 2
-      Hash: 75dd77d3eaf67a85b31ce41fca5ed55a
-    assemblyName: ClusterVR.CreatorKit.Item.Implements.dll
-    namespaceName: ClusterVR.CreatorKit.Item.Implements
-    className: RidableItem
   platform: 13
   scenePathNames:
-  - Assets/venue_3b300f7ad6fb7351d951f9d92d.unity
+  - Assets/venue_d4df6b430159871063c14a8f02.unity
   playerPath: C:/Users/novu/AppData/Local/Temp/DefaultCompany/Cluster Creator Kit
-    Sample/Android/venue_3b300f7ad6fb7351d951f9d92d
+    Sample/Android/venue_d4df6b430159871063c14a8f02
